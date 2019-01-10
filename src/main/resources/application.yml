@@ -1,0 +1,11 @@
+server:
+  servlet:
+    context-path: /springboot-demo
+  tomcat:
+    port: 8080
+
+
+# 自定义配置参数
+book:
+  name: helloworld
+  author: wonglee
